@@ -11,3 +11,6 @@ knock yourself out
 btw tonio d gives out free infinite n word passes >:D 
 
 <hr>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=5thought/boredomgames&type=Date)](https://star-history.com/#5thought/boredomgames&Date)
