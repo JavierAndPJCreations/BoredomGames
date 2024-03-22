@@ -21,44 +21,6 @@
 <br class="is-unselectable">
 <br class="is-unselectable">
 <h1 class="is-size-1 is-unselectable" >Boredom Games</h1>
-<script>
-  $(document).ready(function () {
-      var splash = ["hhhh", "i didnt ask"];
-
-      function randomize(array) {
-          for (var i = array.length - 1; i > 0; i--) {
-              var j = Math.floor(Math.random() * (i + 1));
-              var temp = array[i];
-              array[i] = array[j];
-              array[j] = temp;
-          }
-      }
-
-      randomize(splash);
-
-      var currentIndex = 0;
-
-      function updateSplash() {
-          var newSplash = splash[currentIndex];
-          $(".desc").text(newSplash);
-
-          currentIndex = (currentIndex + 1) % splash.length;
-      }
-
-      updateSplash();
-
-      $(window).on('beforeunload', function () {
-          sessionStorage.setItem('splashIndex', currentIndex);
-      });
-
-      var savedIndex = sessionStorage.getItem('splashIndex');
-      if (savedIndex !== null) {
-          currentIndex = parseInt(savedIndex);
-      }
-
-      updateSplash();
-  });
-</script>
 <br class="is-unselectable">
 <button class="button is-link is-outlined"> <a href="/games.html">Games</a>
 <button class="button is-link is-outlined"> <a href="/settings.html">Settings</a>
