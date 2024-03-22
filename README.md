@@ -4,6 +4,8 @@ BoredomGames is a website/repository for students to slack off and play games wh
 
 For Educational Purposes Only 
 
+<hr>
+
 knock yourself out 
 
 <hr>
