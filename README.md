@@ -6,6 +6,10 @@ For Educational Purposes Only
 
 <hr>
 
+![GitHub Repo size](https://img.shields.io/github/repo-size/CybriaTech/Opium)
+
+<hr>
+
 knock yourself out 
 
 <hr>
