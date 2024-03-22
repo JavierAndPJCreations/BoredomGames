@@ -21,6 +21,16 @@
 <br class="is-unselectable">
 <br class="is-unselectable">
 <h1 class="is-size-1 is-unselectable" >Boredom Games</h1>
+<script>
+  var texts = [
+  "I am a sentence.",
+  "Some nice stuff.",
+  "I am random too!"
+];
+
+document.getElementById('randomText').value = texts[Math.floor(Math.random()*texts.length)];
+</script>
+<h3 id="randomText">
 <br class="is-unselectable">
 <button class="button is-link is-outlined"> <a href="/games.html">Games</a>
 <button class="button is-link is-outlined"> <a href="/settings.html">Settings</a>
