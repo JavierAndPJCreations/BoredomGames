@@ -6,7 +6,7 @@ For Educational Purposes Only
 
 <hr>
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/CybriaTech/Opium)
+![GitHub Repo size](https://img.shields.io/github/repo-size/5thought/BoredomGames)
 
 <hr>
 
