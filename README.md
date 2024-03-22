@@ -7,6 +7,8 @@ For Educational Purposes Only
 <hr>
 
 ![GitHub Repo size](https://img.shields.io/github/repo-size/5thought/BoredomGames)
+![GitHub Repo stars](https://img.shields.io/github/stars/5thought/BoredomGames)
+![GitHub Repo forks](http://img.shields.io/github/forks/5thought/BoredomGames)
 
 <hr>
 
