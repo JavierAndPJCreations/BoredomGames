@@ -1,6 +1,5 @@
 <hr>
-![GitHub Repo Size](https://img.shields.io/github/repo-size/5thought/boredomgames)
-
+<h1>BOREDOMGAMES</h1>
 BoredomGames is a website/repository for students to slack off and play games when they are bored. DISCLAIMER: I am not responsible for any rules that you may break by using this site. 
 
 For Educational Purposes Only 
